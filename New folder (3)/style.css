@@ -1,0 +1,14 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+.box1{
+   margin-left: 3%;
+}
+.background1{
+    background-image: url(./pic/download.webp);
+   height: 30%;
+   width: 30%;
+   
+}
